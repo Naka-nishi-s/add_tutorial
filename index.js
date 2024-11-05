@@ -1,0 +1,3 @@
+const startIntro = () => {
+  introJs().start();
+};

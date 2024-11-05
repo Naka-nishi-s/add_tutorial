@@ -1,0 +1,19 @@
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 300px;
+  background-color: pink;
+}
+
+.process-list {
+  background-color: aquamarine;
+  padding: 60px;
+}
+
+.thoughts {
+  padding: 60px;
+  background-color: bisque;
+}
